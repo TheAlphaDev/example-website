@@ -13,5 +13,5 @@ if(carIsGoingToCrash){
   don't(car);
  }
 ```
-- [] ooh
-- [] ooooh
+- [ ] ooh
+- [ ] ooooh
