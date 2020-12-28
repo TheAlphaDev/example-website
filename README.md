@@ -3,3 +3,13 @@
 Parthiv Mothipati
 ## Teacher
 Sheetal Maam.
+**Markdown**
+
+*Italic*
+**Bold**
+
+```
+if(carIsGoingToCrash){
+  don't(car);
+ }
+```
